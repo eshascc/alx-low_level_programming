@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - man block
+ * main - main block
  * Descrpition: print the alphabet in lower case
  * and the in uppercase, follow by a new line
  * Return: 0
@@ -23,6 +23,6 @@ int main(void)
 		c++;
 	}
 
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
